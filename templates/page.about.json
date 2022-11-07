@@ -27,11 +27,21 @@
             "title": "Developer",
             "bio": "Tiramisu croissant topping halvah bear claw. Gummi bears cotton candy shortbread oat cake danish. Lollipop cheesecake jujubes jelly beans chocolate bar pudding macaroon muffin macaroon. Wafer ice cream gummi bears chocolate bar sesame snaps oat cake gummies fruitcake. Chocolate wafer lollipop tiramisu halvah cotton candy danish shortbread. Cake muffin danish carrot cake pastry tart muffin chocolate bar. Toffee bear claw sweet dessert pudding sweet roll. Sugar plum brownie jelly-o gummi bears jelly-o. Candy canes croissant pastry muffin cake icing donut. Pudding brownie dessert gummies gummi bears jelly-o. Cake pudding jujubes cotton candy gummies pudding tart tart. Jelly-o dessert carrot cake bonbon sugar plum chupa chups chupa chups sugar plum chocolate bar. Cake jelly beans macaroon dessert tootsie roll jujubes donut liquorice powder."
           }
+        },
+        "4010069c-3f51-4bb1-a9d8-24d453caae43": {
+          "type": "profile",
+          "settings": {
+            "photo": "shopify:\/\/shop_images\/IMG-20220227-WA0023.jpg",
+            "name": "Dot",
+            "title": "Developer",
+            "bio": "Jelly wafer candy chocolate bar tiramisu. Carrot cake cake gingerbread marzipan lollipop cookie pie. Jelly-o fruitcake sweet topping jelly-o sweet tiramisu soufflé fruitcake. Toffee marzipan shortbread chocolate marzipan gummies. Sugar plum bonbon cake dragée jujubes danish sugar plum bonbon. Bear claw topping jelly jelly-o chocolate cake pastry marzipan croissant. Cupcake halvah topping marshmallow jelly-o powder jelly. Dragée macaroon fruitcake candy canes marzipan jelly beans halvah. Croissant sweet roll gummies pie gummies caramels sweet roll. Muffin marshmallow tart oat cake cotton candy cake chupa chups candy canes gummies. Carrot cake marshmallow bonbon pie toffee marshmallow candy canes pie. Croissant pie pastry gummies topping gummies soufflé pastry candy."
+          }
         }
       },
       "block_order": [
         "8962f23f-528b-40e6-a2fc-715e202badc3",
-        "d293cb8d-8eb9-4285-9852-73b536459af6"
+        "d293cb8d-8eb9-4285-9852-73b536459af6",
+        "4010069c-3f51-4bb1-a9d8-24d453caae43"
       ],
       "settings": {
         "title": "Meet our Team"
