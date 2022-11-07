@@ -9,6 +9,19 @@
     },
     "c9c656d9-54df-4eeb-b733-0fcc9d9305ed": {
       "type": "team-members",
+      "blocks": {
+        "6cc8e2f8-234e-4569-a055-340dfa61bc77": {
+          "type": "staff-profile",
+          "settings": {
+            "staff-name": "Andrea",
+            "staff-title": "Developer",
+            "staff-bio": "Tiramisu croissant carrot cake tiramisu lollipop candy canes soufflé chocolate ice cream. Icing gummies biscuit jelly-o chocolate cake cheesecake gummies jujubes topping. Cake cake dessert carrot cake marshmallow ice cream. Jelly macaroon bear claw cupcake donut fruitcake jelly-o. Lemon drops cake sugar plum chocolate cake tootsie roll caramels powder chupa chups. Tart chocolate cake liquorice biscuit gummies cheesecake chocolate bar carrot cake. Chupa chups liquorice tootsie roll chocolate bar sugar plum cake. Jelly-o tart oat cake sweet powder sweet roll tiramisu. Cheesecake muffin gingerbread pastry chocolate dragée. Dragée jelly beans cheesecake cake liquorice biscuit cake sesame snaps dessert. Pastry cake fruitcake soufflé candy soufflé gummies pie gummi bears. Dessert caramels muffin pie sweet."
+          }
+        }
+      },
+      "block_order": [
+        "6cc8e2f8-234e-4569-a055-340dfa61bc77"
+      ],
       "settings": {
         "title": "Meet our Team"
       }
