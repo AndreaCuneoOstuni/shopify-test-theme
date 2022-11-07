@@ -1,7 +1,16 @@
 <div class="page-width">
+
   {% if section.settings.title != blank %}
     <h2>{{ section.settings.title | escape }}</h2>
 	{% endif %}
+
+	{% for member in section.blocks %}
+		<div>
+			<h3>{{ member.settings.staff-name }}<h3>
+			<span>{{ member.settings.staff-title }}</span>
+			<p>{{ member.settings.staff-bio }}</p>
+		</div>
+	{% endfor %}
 </div>
 
 {% schema %}
