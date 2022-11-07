@@ -6,9 +6,16 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "c9c656d9-54df-4eeb-b733-0fcc9d9305ed": {
+      "type": "team-members",
+      "settings": {
+        "title": "Meet our Team"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "c9c656d9-54df-4eeb-b733-0fcc9d9305ed"
   ]
 }
