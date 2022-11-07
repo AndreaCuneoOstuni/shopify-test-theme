@@ -10,44 +10,28 @@
     "c9c656d9-54df-4eeb-b733-0fcc9d9305ed": {
       "type": "team-members",
       "blocks": {
-        "6cc8e2f8-234e-4569-a055-340dfa61bc77": {
-          "type": "staff-profile",
+        "8962f23f-528b-40e6-a2fc-715e202badc3": {
+          "type": "profile",
           "settings": {
-            "staff-name": "Andrea",
-            "staff-title": "Developer",
-            "staff-bio": "Tiramisu croissant carrot cake tiramisu lollipop candy canes soufflé chocolate ice cream. Icing gummies biscuit jelly-o chocolate cake cheesecake gummies jujubes topping. Cake cake dessert carrot cake marshmallow ice cream. Jelly macaroon bear claw cupcake donut fruitcake jelly-o. Lemon drops cake sugar plum chocolate cake tootsie roll caramels powder chupa chups. Tart chocolate cake liquorice biscuit gummies cheesecake chocolate bar carrot cake. Chupa chups liquorice tootsie roll chocolate bar sugar plum cake. Jelly-o tart oat cake sweet powder sweet roll tiramisu. Cheesecake muffin gingerbread pastry chocolate dragée. Dragée jelly beans cheesecake cake liquorice biscuit cake sesame snaps dessert. Pastry cake fruitcake soufflé candy soufflé gummies pie gummi bears. Dessert caramels muffin pie sweet."
+            "photo": "shopify:\/\/shop_images\/Eros-4dias.jpg",
+            "name": "Eros",
+            "title": "Designer",
+            "bio": "Tiramisu carrot cake sesame snaps liquorice cheesecake. Topping toffee carrot cake icing caramels gingerbread marzipan wafer. Topping cupcake cookie pie sesame snaps chocolate fruitcake. Chupa chups bonbon sweet pie tart cake apple pie halvah jelly-o. Gingerbread carrot cake lollipop carrot cake jelly beans biscuit icing. Jujubes tiramisu tootsie roll chupa chups fruitcake danish soufflé gingerbread. Ice cream gummi bears chupa chups carrot cake jelly chocolate bar. Wafer jujubes chupa chups dessert pastry cake cheesecake shortbread chocolate. Sesame snaps dragée chocolate gingerbread jelly marshmallow pastry. Fruitcake candy gingerbread bear claw gummies powder candy canes lollipop. Bonbon sesame snaps oat cake halvah soufflé ice cream tart icing. Soufflé tootsie roll carrot cake biscuit oat cake jelly beans halvah cake tootsie roll. Candy canes jelly beans jujubes cotton candy topping pie apple pie. Danish muffin sweet jujubes chocolate cake dragée."
           }
         },
-        "978622a2-8bdc-4dbf-bd8e-fba16273416c": {
-          "type": "staff-profile",
+        "d293cb8d-8eb9-4285-9852-73b536459af6": {
+          "type": "profile",
           "settings": {
-            "staff-name": "Sharon",
-            "staff-title": "Web Dev",
-            "staff-bio": "Tiramisu croissant topping halvah bear claw. Gummi bears cotton candy shortbread oat cake danish. Lollipop cheesecake jujubes jelly beans chocolate bar pudding macaroon muffin macaroon. Wafer ice cream gummi bears chocolate bar sesame snaps oat cake gummies fruitcake. Chocolate wafer lollipop tiramisu halvah cotton candy danish shortbread. Cake muffin danish carrot cake pastry tart muffin chocolate bar. Toffee bear claw sweet dessert pudding sweet roll. Sugar plum brownie jelly-o gummi bears jelly-o. Candy canes croissant pastry muffin cake icing donut. Pudding brownie dessert gummies gummi bears jelly-o. Cake pudding jujubes cotton candy gummies pudding tart tart. Jelly-o dessert carrot cake bonbon sugar plum chupa chups chupa chups sugar plum chocolate bar. Cake jelly beans macaroon dessert tootsie roll jujubes donut liquorice powder."
-          }
-        },
-        "cf6cbe5b-961f-4664-815c-a852e611a097": {
-          "type": "staff-profile",
-          "settings": {
-            "staff-name": "John",
-            "staff-title": "Designer",
-            "staff-bio": "Tiramisu carrot cake sesame snaps liquorice cheesecake. Topping toffee carrot cake icing caramels gingerbread marzipan wafer. Topping cupcake cookie pie sesame snaps chocolate fruitcake. Chupa chups bonbon sweet pie tart cake apple pie halvah jelly-o. Gingerbread carrot cake lollipop carrot cake jelly beans biscuit icing. Jujubes tiramisu tootsie roll chupa chups fruitcake danish soufflé gingerbread. Ice cream gummi bears chupa chups carrot cake jelly chocolate bar. Wafer jujubes chupa chups dessert pastry cake cheesecake shortbread chocolate. Sesame snaps dragée chocolate gingerbread jelly marshmallow pastry. Fruitcake candy gingerbread bear claw gummies powder candy canes lollipop. Bonbon sesame snaps oat cake halvah soufflé ice cream tart icing. Soufflé tootsie roll carrot cake biscuit oat cake jelly beans halvah cake tootsie roll. Candy canes jelly beans jujubes cotton candy topping pie apple pie. Danish muffin sweet jujubes chocolate cake dragée."
-          }
-        },
-        "1a59f658-e11b-4517-a188-60b8517eddf7": {
-          "type": "staff-profile",
-          "settings": {
-            "staff-name": "",
-            "staff-title": "",
-            "staff-bio": ""
+            "photo": "shopify:\/\/shop_images\/20130613_173221.jpg",
+            "name": "Sharon",
+            "title": "Developer",
+            "bio": "Tiramisu croissant topping halvah bear claw. Gummi bears cotton candy shortbread oat cake danish. Lollipop cheesecake jujubes jelly beans chocolate bar pudding macaroon muffin macaroon. Wafer ice cream gummi bears chocolate bar sesame snaps oat cake gummies fruitcake. Chocolate wafer lollipop tiramisu halvah cotton candy danish shortbread. Cake muffin danish carrot cake pastry tart muffin chocolate bar. Toffee bear claw sweet dessert pudding sweet roll. Sugar plum brownie jelly-o gummi bears jelly-o. Candy canes croissant pastry muffin cake icing donut. Pudding brownie dessert gummies gummi bears jelly-o. Cake pudding jujubes cotton candy gummies pudding tart tart. Jelly-o dessert carrot cake bonbon sugar plum chupa chups chupa chups sugar plum chocolate bar. Cake jelly beans macaroon dessert tootsie roll jujubes donut liquorice powder."
           }
         }
       },
       "block_order": [
-        "6cc8e2f8-234e-4569-a055-340dfa61bc77",
-        "978622a2-8bdc-4dbf-bd8e-fba16273416c",
-        "cf6cbe5b-961f-4664-815c-a852e611a097",
-        "1a59f658-e11b-4517-a188-60b8517eddf7"
+        "8962f23f-528b-40e6-a2fc-715e202badc3",
+        "d293cb8d-8eb9-4285-9852-73b536459af6"
       ],
       "settings": {
         "title": "Meet our Team"
