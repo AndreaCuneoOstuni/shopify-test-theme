@@ -33,12 +33,21 @@
             "staff-title": "Designer",
             "staff-bio": "Tiramisu carrot cake sesame snaps liquorice cheesecake. Topping toffee carrot cake icing caramels gingerbread marzipan wafer. Topping cupcake cookie pie sesame snaps chocolate fruitcake. Chupa chups bonbon sweet pie tart cake apple pie halvah jelly-o. Gingerbread carrot cake lollipop carrot cake jelly beans biscuit icing. Jujubes tiramisu tootsie roll chupa chups fruitcake danish soufflé gingerbread. Ice cream gummi bears chupa chups carrot cake jelly chocolate bar. Wafer jujubes chupa chups dessert pastry cake cheesecake shortbread chocolate. Sesame snaps dragée chocolate gingerbread jelly marshmallow pastry. Fruitcake candy gingerbread bear claw gummies powder candy canes lollipop. Bonbon sesame snaps oat cake halvah soufflé ice cream tart icing. Soufflé tootsie roll carrot cake biscuit oat cake jelly beans halvah cake tootsie roll. Candy canes jelly beans jujubes cotton candy topping pie apple pie. Danish muffin sweet jujubes chocolate cake dragée."
           }
+        },
+        "1a59f658-e11b-4517-a188-60b8517eddf7": {
+          "type": "staff-profile",
+          "settings": {
+            "staff-name": "",
+            "staff-title": "",
+            "staff-bio": ""
+          }
         }
       },
       "block_order": [
         "6cc8e2f8-234e-4569-a055-340dfa61bc77",
         "978622a2-8bdc-4dbf-bd8e-fba16273416c",
-        "cf6cbe5b-961f-4664-815c-a852e611a097"
+        "cf6cbe5b-961f-4664-815c-a852e611a097",
+        "1a59f658-e11b-4517-a188-60b8517eddf7"
       ],
       "settings": {
         "title": "Meet our Team"
