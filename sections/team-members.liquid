@@ -8,9 +8,9 @@
 		{% for member in section.blocks %}
 			<div class="grid__item" style="margin-top:30px;">
 				{{ member.settings.photo | image_url }}
-				<h3>{{ member.settings.staff-name }}</h3>
-				<span>{{ member.settings.staff-title }}</span>
-				<p>{{ member.settings.staff-bio }}</p>
+				<h3>{{ member.settings.name }}</h3>
+				<span>{{ member.settings.title }}</span>
+				<p>{{ member.settings.bio }}</p>
 			</div>
 		{% endfor %}
 	</div>
@@ -31,26 +31,26 @@
 	"blocks": [
 		{
 			"name": "Team Member",
-			"type": "staff-profile",
+			"type": "profile",
 			"settings": [
 				{
 					"type": "image_picker",
-					"id": "staff-photo",
+					"id": "photo",
 					"label": "Photo"
 				},
 				{
 					"type": "text",
-					"id": "staff-name",
+					"id": "name",
 					"label": "Name"
 				},
 				{
 					"type": "text",
-					"id": "staff-title",
+					"id": "title",
 					"label": "Job Title"
 				},
 				{
 					"type": "textarea",
-					"id": "staff-bio",
+					"id": "bio",
 					"label": "Bio"
 				}
 			]
