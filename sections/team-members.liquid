@@ -7,6 +7,7 @@
 	<div class="grid grid--2-col-desktop">
 		{% for member in section.blocks %}
 			<div class="grid__item" style="margin-top:30px;">
+				{{ member.settings.photo | image_url }}
 				<h3>{{ member.settings.staff-name }}</h3>
 				<span>{{ member.settings.staff-title }}</span>
 				<p>{{ member.settings.staff-bio }}</p>
@@ -32,6 +33,11 @@
 			"name": "Team Member",
 			"type": "staff-profile",
 			"settings": [
+				{
+					"type": "image_picker",
+					"id": "staff-photo",
+					"label": "Photo"
+				},
 				{
 					"type": "text",
 					"id": "staff-name",
