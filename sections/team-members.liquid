@@ -10,9 +10,9 @@
 				{% if member.settings.photo %}
 				<img src="{{ member.settings.photo | image_url }}" width="auto" height="200" alt="" loading="lazy"/>
 				{% endif %}
-				<h3>{{ member.settings.name }}</h3>
-				<span>{{ member.settings.title }}</span>
-				<p>{{ member.settings.bio }}</p>
+				<h3 class="team-member__name">{{ member.settings.name }}</h3>
+				<span class="team-member__title">{{ member.settings.title }}</span>
+				<p class="team-member__bio">{{ member.settings.bio }}</p>
 			</div>
 		{% endfor %}
 	</div>
