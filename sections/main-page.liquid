@@ -22,9 +22,13 @@
   <h1 class="main-page-title page-title h0">
     {{ page.title | escape }}
   </h1>
-  {% if page.content != blank %}
+  {% if page.content.size > 100 %}
     <div class="rte">
       {{ page.content }}
+    </div>
+  {% elsif page.content.size == 100 %}
+    <div class="rte">
+      Our content writers are making the final touches, and the page content will be available shortly.
     </div>
   {% else %}
     <div class="rte">
