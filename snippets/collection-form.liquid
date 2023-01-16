@@ -1,6 +1,5 @@
-{% if product.price > 10000 %}
-  {% continue %}
-{% else %}
+{% if product.price < 10000 %}
+  <p>{{ product.title }}</p>
   {% form "product", product, data-location: "collection" %}
     {{ product.title }}
   {% endform %}
