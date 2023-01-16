@@ -26,7 +26,14 @@
   }
 {%- endstyle -%}
 
-{% render "collection-form" for collections["outdoor"].products as product %}
+<div class="custom-collection">
+  <div class="page-width">
+    <h3 class="h1">Outdoor Collection on Sale!</h3>
+    <div class="custom-collection--wrapper">
+      {% render "collection-form" for collections["outdoor"].products as product %}
+    </div>
+  </div>
+</div>
 
 {% raw %}
   The name of our collection is {{ collection.title }}.
