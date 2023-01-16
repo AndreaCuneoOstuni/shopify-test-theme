@@ -1,7 +1,7 @@
 {% if product.compare_at_price != blank %}
   <div class="custom-collection--item">
     <a href="{{ product.url }}">
-      <img src="{{ product | image_url: '300x300' }}" loading="lazy">
+      <img src="{{ product | image_url }}" loading="lazy">
       <p class="h4 custom-collection--title">{{ product.title }}</p>
       <p class="custom-collection--price">{{ product.price | money }}<span> {{ product.compare_at_price | money }}</span></p>
       <span class="custom-collection--sale-badge">sale</span>
