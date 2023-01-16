@@ -28,7 +28,7 @@
 
 {% for product in collections["outdoor"].products offset: 4 %}
 
-    {% render "collection-form.liquid" for collections["outdoor"].products as product %}
+    {% render "collection-form" for collections["outdoor"].products as product %}
 
 {% endfor %}
 
