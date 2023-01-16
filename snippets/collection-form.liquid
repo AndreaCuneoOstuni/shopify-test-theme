@@ -4,7 +4,7 @@
     <p>{{ product.title }}</p>
     <p>{{ product.price | money }}</p>
   </a>
-  {% form "product", product %}
+  {% form "product", product return_to: back %}
     <input type="hidden" name="id" value="{{ product.first_available_variant.id }}" />
     <input type="submit" value="Add to Cart">
   {% endform %}
