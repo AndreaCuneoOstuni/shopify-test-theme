@@ -2,7 +2,7 @@
   <a href="{{ product.url }}">
     <img src="{{ product | image_url }}" loading="lazy">
     <p>{{ product.title }}</p>
-    <p>{{ product.price | money }}<span>{{ product.compare_at_price | money }}</span></p>
+    <p>{{ product.price | money }}<span> {{ product.compare_at_price | money }}</span></p>
     <span>sale</span>
   </a>
   {% form "product", product, return_to: 'back' %}
