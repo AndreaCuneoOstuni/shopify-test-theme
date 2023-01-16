@@ -3,6 +3,7 @@
     <img src="{{ product | image_url }}" loading="lazy">
     <p>{{ product.title }}</p>
     <p>{{ product.price | money }}</p>
+    <span>{{ product.compare_at_price | money }}</span>
   </a>
   {% form "product", product, return_to: 'back' %}
     <input type="hidden" name="id" value="{{ product.first_available_variant.id }}" />
