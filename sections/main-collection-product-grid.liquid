@@ -26,7 +26,14 @@
   }
 {%- endstyle -%}
 
-{% render "collection-form.liquid" %}
+{% for product in collections["outdoor"].products offset: 4 %}
+  {% if product.price > 10000 %}
+    {% continue %}
+  {% else %}
+    {% render "collection-form.liquid" %}
+  {% endif %}
+{% endfor %}
+
 
 
 <div class="section-{{ section.id }}-padding">
