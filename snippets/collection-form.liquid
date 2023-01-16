@@ -5,5 +5,7 @@
     <p>{{ product.price | money }}</p>
   </a>
   {% form "product", product %}
+    <input type="hidden" name="id" value="{{ product.first_available_variant.id }}" />
+    <input type="submit" value="Add to Cart">
   {% endform %}
 {% endif %}
