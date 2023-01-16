@@ -1,5 +1,5 @@
 {% if product.price < 10000 %}
-  <a> href="{{ product.url }}"
+  <a> href="{{ product.url | link_to }}"
     <p>{{ product.title }}</p>
   </a>
   {% form "product", product %}
