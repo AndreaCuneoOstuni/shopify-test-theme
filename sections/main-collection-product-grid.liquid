@@ -30,7 +30,7 @@
   {% if product.price > 10000 %}
     {% continue %}
   {% else %}
-    {% render "collection-form.liquid" %}
+    {% render "collection-form.liquid", product: product %}
   {% endif %}
 {% endfor %}
 
