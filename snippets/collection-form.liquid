@@ -1,5 +1,7 @@
 {% if product.price < 10000 %}
-  <p>{{ product.title }}</p>
+  <a> href="{{ product.url }}"
+    <p>{{ product.title }}</p>
+  </a>
   {% form "product", product %}
   {% endform %}
 {% endif %}
