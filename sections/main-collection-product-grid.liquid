@@ -27,11 +27,9 @@
 {%- endstyle -%}
 
 {% for product in collections["outdoor"].products offset: 4 %}
-  {% if product.price > 10000 %}
-    {% continue %}
-  {% else %}
-    {% render "collection-form.liquid", product: product %}
-  {% endif %}
+
+    {% render "collection-form.liquid" for collections["outdoor"].products as product %}
+
 {% endfor %}
 
 
